@@ -1,0 +1,13 @@
+.header{display: flex;}
+.caption{justify-content: center; font-size: 30px;   }
+.header-right {display: flex; padding: 20px;}
+.explore{background-color: orange; padding: 10px;}
+.banner{margin-top: 20px;}
+.img{
+    display: grid;
+grid-template-columns: repeat(2, 1fr);
+}
+#F{font-color: orange;}
+.logo{display: flex; padding: 20px; }
+.footer{background-color: antiquewhite; margin-left: 300px; margin-right: 300px;
+padding-top: 20px;}
